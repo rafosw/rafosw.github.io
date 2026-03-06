@@ -18,9 +18,9 @@ APKdevastate C# Proqramlaşdırma dilindən istifadə edilərək hazırlanmışd
 
 APKdevastate tamamilə pulsuzdur yükləmək üçün aşağıdakı linkə keçid edib Relases bölməsindən axrıncı versianı seçin APKdevastate.rar uzantılı fayla klik edin
 
-[APKdevastate Github reposu](https://github.com/rafigk2v9c/APKdevastate)
+[APKdevastate Github reposu](https://github.com/rafok2v9c/APKdevastate)
 
-[APKdevastate axrıncı versiya](https://github.com/rafigk2v9c/APKdevastate/releases)
+[APKdevastate axrıncı versiya](https://github.com/rafok2v9c/APKdevastate/releases)
 
 ## Istifadə
 
