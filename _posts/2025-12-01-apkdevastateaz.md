@@ -2,7 +2,7 @@
 layout: post
 pin: false
 title: "APKdevastate: APK payloadlarını analiz etmək üçün proqram"
-author: rafok2v9c
+author: rafosw
 categories: [AZ]
 tags: [Software]
 media_subpath: /images/software_apkdevastate
@@ -18,9 +18,9 @@ APKdevastate C# Proqramlaşdırma dilindən istifadə edilərək hazırlanmışd
 
 APKdevastate tamamilə pulsuzdur yükləmək üçün aşağıdakı linkə keçid edib Relases bölməsindən axrıncı versianı seçin APKdevastate.rar uzantılı fayla klik edin
 
-[APKdevastate Github reposu](https://github.com/rafok2v9c/APKdevastate)
+[APKdevastate Github reposu](https://github.com/rafosw/APKdevastate)
 
-[APKdevastate axrıncı versiya](https://github.com/rafok2v9c/APKdevastate/releases)
+[APKdevastate axrıncı versiya](https://github.com/rafosw/APKdevastate/releases)
 
 ## Istifadə
 

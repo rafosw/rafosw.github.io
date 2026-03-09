@@ -2,7 +2,7 @@
 layout: post
 pin: false
 title: "CraxsRat: Android RAT proqramına texniki baxiş"
-author: rafok2v9c
+author: rafosw
 categories: [AZ]
 tags: [RAT, Malware, Reverse Engineering ]
 media_subpath: /images/trojan_craxsrat

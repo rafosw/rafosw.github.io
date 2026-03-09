@@ -2,7 +2,7 @@
 layout: post
 pin: false
 title: "RAT Alətləri və Bazarının Batışı."
-author: rafok2v9c
+author: rafosw
 categories: [AZ]
 tags: [RAT, Reverse Engineering, Malware]
 #media_subpath: /images/ctf_magicctf

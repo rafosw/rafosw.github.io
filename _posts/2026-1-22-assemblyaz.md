@@ -2,7 +2,7 @@
 layout: post
 pin: false
 title: "0xFF: Assembly dili ilə öz xüsusi shellcode-umuzu yazaraq kernelə request göndərmək."
-author: rafok2v9c
+author: rafosw
 categories: [AZ]
 tags: [Reverse Engineering]
 media_subpath: /images/assembly

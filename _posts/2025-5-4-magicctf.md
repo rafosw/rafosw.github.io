@@ -2,7 +2,7 @@
 layout: post
 pin: false
 title: "magic CTF: Özümün hazırladığı CTF"
-author: rafok2v9c
+author: rafosw
 categories: [AZ]
 tags: [CTF]
 media_subpath: /images/ctf_magicctf

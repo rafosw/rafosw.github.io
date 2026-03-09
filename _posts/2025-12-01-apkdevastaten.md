@@ -2,7 +2,7 @@
 layout: post
 pin: false
 title: "APKdevastate: A program for analyzing APK payloads"
-author: rafok2v9c
+author: rafosw
 categories: [EN]
 tags: [Software]
 media_subpath: /images/software_apkdevastate
@@ -19,9 +19,9 @@ APKdevastate was developed using the C# programming language and identifies whic
 
 APKdevastate is completely free. To download it, go to the link below, select the latest version from the Releases section, and click on the file with the APKdevastate.rar extension.
 
-[APKdevastate Github repository](https://github.com/rafok2v9c/APKdevastate)
+[APKdevastate Github repository](https://github.com/rafosw/APKdevastate)
 
-[APKdevastate latest version](https://github.com/rafok2v9c/APKdevastate/releases)
+[APKdevastate latest version](https://github.com/rafosw/APKdevastate/releases)
 
 ## Usage
 
